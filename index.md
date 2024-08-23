@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Johan Lassen - project portfolio and CV
 ---
 
