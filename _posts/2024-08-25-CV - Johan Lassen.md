@@ -38,7 +38,7 @@ PhD Skills:
 -	Data Science in Bioinformatics (Msc)
 
 ## EDUCATION
-2020 - present:	PhD Student in Bioinformatics (BiRC, Aarhus University)
-2019 - 2020:	Master of Science in Bioinformatics (BiRC, Aarhus University)
-2016 - 2019:	Bachelor of Science in Molecular Medicine (BiRC, Aarhus University)
+- 2020 - present:	PhD Student in Bioinformatics (BiRC, Aarhus University)
+- 2019 - 2020:	Master of Science in Bioinformatics (BiRC, Aarhus University)
+- 2016 - 2019:	Bachelor of Science in Molecular Medicine (BiRC, Aarhus University)
 
